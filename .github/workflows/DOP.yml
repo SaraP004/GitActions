@@ -27,4 +27,4 @@ jobs:
                -H "Accept: application/vnd.github.v3+json" \
                https://api.github.com/user/repos
 # GITHUB_TOKEN se genera automáticamente para cada ejecución del flujo y tiene permisos predeterminados para interactuar con el repositorio.
-# versión 3 de la API de GitHub.
+# versión 3 de la API de GitHub..
